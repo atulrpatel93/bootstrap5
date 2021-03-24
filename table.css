@@ -65,3 +65,16 @@ table {
 th{
     cursor: pointer;
 }
+header{
+    background-color: #f18a28;
+    padding: 10px 0;
+}
+.header img {
+    max-width: 100%;
+    display: block;
+}
+footer{
+    padding: 10px 0;
+    background: #ccc;
+    margin-top: 20px;
+}
